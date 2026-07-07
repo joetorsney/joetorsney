@@ -1,5 +1,4 @@
-# Hello, you've reached my github.
+# Hello!
 
-I am a full stack software engineer at [Lexical Labs](https://www.lexicallabs.com/)
+I am a Full Stack Software Engineer specialising in production LLM systems: RAG pipelines, LLM orchestration, and developer tooling; as well as Scientific Software. I have experience at an AI startup, CERN, and STFC. I build in Python, TypeScript, FastAPI, and React. I am based in Geneva, Switzerland.
 
-Since most of my work is in private repositories, I encourage you to visit [my website](https://www.joetorsney.com) to see my projects.
